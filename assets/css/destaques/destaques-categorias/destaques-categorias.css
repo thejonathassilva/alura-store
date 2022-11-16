@@ -1,0 +1,12 @@
+@media screen and (min-width: 0) {
+    .destaques__categorias {
+        grid-column: 1 / 5;
+        grid-row: 3 / 3;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .destaques__categorias {
+        grid-column: 1 / 3;
+    }
+}

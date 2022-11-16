@@ -1,0 +1,8 @@
+.menu__link {
+    color: var(--cinza);
+    padding: .5rem 1rem;
+}
+
+.menu__link:hover, .menu__link.ativo {
+    border-bottom: 2px solid var(--azul-link);
+}

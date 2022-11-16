@@ -1,0 +1,5 @@
+.populares__cabecalho {
+    border-bottom: 1px solid var(--branco-forte);
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+.populares__card___descricao {
+    color: var(--cinza);
+    text-align: justify;
+    line-height: 1.5;
+    margin: 1rem 0;
+}
